@@ -7,3 +7,5 @@
 |Documentação Git|[Link](https://git-scm.com/book/pt-br/v2)|
 |Documentação GitHub| [Link](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)|
 |Escrevendo um arquivo .md| [Link](https://readme.so/pt)|
+
+Link artigo: https://github.com/jmoraaest/Resumos-meu-DIO/tree/main/artigo-DIO
